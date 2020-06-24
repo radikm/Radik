@@ -179,11 +179,11 @@ a {
   transform: scale(0.75) translateY(9px);
 }
 #page-hero .brand-logo #brand-logo:hover #icon {
-  -webkit-transform: scale(0.75) translateY(3px);
-  -moz-transform: scale(0.75) translateY(3px);
-  -ms-transform: scale(0.75) translateY(3px);
-  -o-transform: scale(0.75) translateY(3px);
-  transform: scale(0.75) translateY(3px);
+  -webkit-transform: scale(0.75) translateY(9px);
+  -moz-transform: scale(0.75) translateY(9px);
+  -ms-transform: scale(0.75) translateY(9px);
+  -o-transform: scale(0.75) translateY(9px);
+  transform: scale(0.75) translateY(9px);
 }
 #page-hero .h-01 {
   color: white;
